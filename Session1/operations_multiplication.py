@@ -15,14 +15,14 @@ print(imf, type(imf))
 imf2 = 'sf' * 2
 print(imf2, type(imf2))
 # write a line to figure out type of <str> * <float>
-imf3 = 'sf' * 2.1
-print(imf3, type(imf3))
+# imf3 = 'sf' * 2.1
+# print(imf3, type(imf3))
 # write a line to figure out type of <list> * <int>
 imf4 = [1, 3, 5] * 2
 print(imf4, type(imf4))
 # write a line to figure out type of <list> * <float>
-imf5 = [1, 3, 5] * 7.6
-print(imf5, type(imf5))
+# imf5 = [1, 3, 5] * 7.6
+# print(imf5, type(imf5))
 # write a line to figure out type of <list> * <str>
-imf6 = [1, 3, 5] * 'sf'
-print(imf6, type(imf6))
+# imf6 = [1, 3, 5] * 'sf'
+# print(imf6, type(imf6))

@@ -12,17 +12,17 @@ print('\ndifferent-type division:')
 imf = 3 / 2.3  # <int> / <float>
 print(imf, type(imf))
 # write a line to figure out type of <str> / <int>
-imf1= 'sf' / 2
-print(imf1, type(imf1))
+# imf1= 'sf' / 2
+# print(imf1, type(imf1))
 # write a line to figure out type of <str> / <float>
-imf2= 'sf' / 2.1
-print(imf2, type(imf2))
+# imf2= 'sf' / 2.1
+# print(imf2, type(imf2))
 # write a line to figure out type of <list> / <int>
-imf3= [1, 3, 5] / 2
-print(imf3, type(imf3))
+# imf3= [1, 3, 5] / 2
+# print(imf3, type(imf3))
 # write a line to figure out type of <list> / <float>
-imf4= [1, 3, 5] / 2.5
-print(imf4, type(imf4))
+# imf4= [1, 3, 5] / 2.5
+# print(imf4, type(imf4))
 # write a line to figure out type of <list> / <str>
-imf5= [1, 3, 5] / 'sf'
-print(imf5, type(imf5))
+# imf5= [1, 3, 5] / 'sf'
+# print(imf5, type(imf5))
